@@ -1,0 +1,23 @@
+# Table of contents
+
+* [Init](README.md)
+* [Фонарь](lampa.md)
+* [Светофор](svetofor.md)
+* [Диммер](dimmer.md)
+* [Телеграф](telegraf.md)
+* [Конденсатор](kondensator.md)
+* [Биполярный транзистор](bipolyarnyi-tranzistor.md)
+* [Мультивибратор](multivibrator.md)
+* [И/ИЛИ/НЕ](i-ili-ne.md)
+* [Сигнализация \(4И-НЕ\)/Сирена](signalizaciya-4i-ne-sirena.md)
+* [Стробоскоп \(555\)](stroboskop-555.md)
+* [Ж/Д переезд \(555\)](zh-d-pereezd-555.md)
+* [Пианино](pianino.md)
+* [Мотор](motor.md)
+* [Мотор на Р/У](motor-na-r-u.md)
+* [Геркон](gerkon.md)
+* [Детектор магнитного поля](detektor-magnitnogo-polya.md)
+* [Вольтметр](voltmetr.md)
+* [Шумомер](shumomer.md)
+* [Термометр](termometr.md)
+
