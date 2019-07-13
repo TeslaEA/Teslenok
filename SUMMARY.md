@@ -20,4 +20,5 @@
 * [Вольтметр](voltmetr.md)
 * [Шумомер](shumomer.md)
 * [Термометр](termometr.md)
+* [Будильник 555 + компаратор](budilnik-555-+-komporator.md)
 
