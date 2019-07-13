@@ -25,4 +25,5 @@
   * [Вольтметр](indikatory/voltmetr.md)
   * [Шумомер](indikatory/shumomer.md)
   * [Термометр](indikatory/termometr.md)
+* [Соревнования](sorevnovaniya.md)
 
