@@ -4,3 +4,5 @@ description: Делаем волшебные пальцы из микроник�
 
 # Биполярный транзистор
 
+[http://gameforstreet.ru/dopolnitel-naya-shema-dlya-mikronika-amperka-sensor/](http://gameforstreet.ru/dopolnitel-naya-shema-dlya-mikronika-amperka-sensor/)
+

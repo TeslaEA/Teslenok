@@ -4,6 +4,8 @@ description: Глупый светильник - обязательное доп
 
 # Фонарь
 
+[http://gameforstreet.ru/dopolnitel-naya-shema-dlya-mikronika-amperka-sozdaem-rezistor/](http://gameforstreet.ru/dopolnitel-naya-shema-dlya-mikronika-amperka-sozdaem-rezistor/)
+
 > "Вы знаете зачем вы создали лампу накаливания? — Нет, но я думаю правительство скоро поймет, как брать с людей за это деньги!"
 >
 >                                     _— Томас Эдисон американский изобретатель и предприниматель 1847 - 1931_
