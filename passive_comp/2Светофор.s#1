@@ -2184,13 +2184,13 @@ Warning: This is the KIT version of the AXIAL-0.1 package. This package has a sm
 </classes>
 <parts>
 <part name="SUPPLY3" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="+5V" device=""/>
-<part name="R1" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" deviceset="100OHM" device="-HORIZ-1/4W-1%" package3d_urn="urn:adsk.eagle:package:39658/1" value="220"/>
-<part name="LED_RED" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="LED" device="5MM" package3d_urn="urn:adsk.eagle:package:6240538/1"/>
+<part name="R6" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" deviceset="100OHM" device="-HORIZ-1/4W-1%" package3d_urn="urn:adsk.eagle:package:39658/1" value="220"/>
+<part name="LED_RED1" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="LED" device="5MM" package3d_urn="urn:adsk.eagle:package:6240538/1"/>
 <part name="GND3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R2" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" deviceset="100OHM" device="-HORIZ-1/4W-1%" package3d_urn="urn:adsk.eagle:package:39658/1" value="220"/>
-<part name="LED_YELLOW" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="LED" device="5MM" package3d_urn="urn:adsk.eagle:package:6240538/1"/>
-<part name="R3" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" deviceset="100OHM" device="-HORIZ-1/4W-1%" package3d_urn="urn:adsk.eagle:package:39658/1" value="220"/>
-<part name="LED_GREEN" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="LED" device="5MM" package3d_urn="urn:adsk.eagle:package:6240538/1"/>
+<part name="R5" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" deviceset="100OHM" device="-HORIZ-1/4W-1%" package3d_urn="urn:adsk.eagle:package:39658/1" value="220"/>
+<part name="LED_RED2" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="LED" device="5MM" package3d_urn="urn:adsk.eagle:package:6240538/1"/>
+<part name="R7" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" deviceset="100OHM" device="-HORIZ-1/4W-1%" package3d_urn="urn:adsk.eagle:package:39658/1" value="220"/>
+<part name="LED_RED3" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="LED" device="5MM" package3d_urn="urn:adsk.eagle:package:6240538/1"/>
 <part name="SW1" library="special" library_urn="urn:adsk.eagle:library:367" deviceset="SW_DIP-3" device="" package3d_urn="urn:adsk.eagle:package:26663/2"/>
 </parts>
 <sheets>
@@ -2202,30 +2202,30 @@ Warning: This is the KIT version of the AXIAL-0.1 package. This package has a sm
 <instance part="SUPPLY3" gate="+5V" x="-5.08" y="80.01" smashed="yes">
 <attribute name="VALUE" x="-6.985" y="83.185" size="1.778" layer="96"/>
 </instance>
-<instance part="R1" gate="G$1" x="30.48" y="72.39" smashed="yes" rot="MR180">
+<instance part="R6" gate="G$1" x="30.48" y="72.39" smashed="yes" rot="MR180">
 <attribute name="NAME" x="30.48" y="74.93" size="1.778" layer="95" font="vector" rot="SMR0" align="bottom-center"/>
 <attribute name="VALUE" x="30.48" y="69.85" size="1.778" layer="96" font="vector" rot="SMR0" align="top-center"/>
 </instance>
-<instance part="LED_RED" gate="G$1" x="43.18" y="72.39" smashed="yes" rot="R90">
+<instance part="LED_RED1" gate="G$1" x="43.18" y="72.39" smashed="yes" rot="R90">
 <attribute name="NAME" x="44.45" y="74.93" size="1.778" layer="95" rot="SR0" align="bottom-center"/>
 <attribute name="VALUE" x="47.752" y="78.105" size="1.778" layer="96" rot="R180"/>
 </instance>
 <instance part="GND3" gate="1" x="53.34" y="40.64" smashed="yes">
 <attribute name="VALUE" x="50.8" y="38.1" size="1.778" layer="96"/>
 </instance>
-<instance part="R2" gate="G$1" x="30.48" y="60.96" smashed="yes" rot="MR180">
+<instance part="R5" gate="G$1" x="30.48" y="60.96" smashed="yes" rot="MR180">
 <attribute name="NAME" x="30.48" y="63.5" size="1.778" layer="95" font="vector" rot="SMR0" align="bottom-center"/>
 <attribute name="VALUE" x="30.48" y="58.42" size="1.778" layer="96" font="vector" rot="SMR0" align="top-center"/>
 </instance>
-<instance part="LED_YELLOW" gate="G$1" x="43.18" y="60.96" smashed="yes" rot="R90">
+<instance part="LED_RED2" gate="G$1" x="43.18" y="60.96" smashed="yes" rot="R90">
 <attribute name="NAME" x="44.45" y="63.5" size="1.778" layer="95" rot="SR0" align="bottom-center"/>
 <attribute name="VALUE" x="47.752" y="66.675" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="R3" gate="G$1" x="30.48" y="48.26" smashed="yes" rot="MR180">
+<instance part="R7" gate="G$1" x="30.48" y="48.26" smashed="yes" rot="MR180">
 <attribute name="NAME" x="30.48" y="50.8" size="1.778" layer="95" font="vector" rot="SMR0" align="bottom-center"/>
 <attribute name="VALUE" x="30.48" y="45.72" size="1.778" layer="96" font="vector" rot="SMR0" align="top-center"/>
 </instance>
-<instance part="LED_GREEN" gate="G$1" x="43.18" y="48.26" smashed="yes" rot="R90">
+<instance part="LED_RED3" gate="G$1" x="43.18" y="48.26" smashed="yes" rot="R90">
 <attribute name="NAME" x="44.45" y="50.8" size="1.778" layer="95" rot="SR0" align="bottom-center"/>
 <attribute name="VALUE" x="47.752" y="53.975" size="1.778" layer="96" rot="R180"/>
 </instance>
@@ -2239,26 +2239,26 @@ Warning: This is the KIT version of the AXIAL-0.1 package. This package has a sm
 <nets>
 <net name="N$8" class="0">
 <segment>
-<pinref part="R1" gate="G$1" pin="2"/>
+<pinref part="R6" gate="G$1" pin="2"/>
 <wire x1="35.56" y1="72.39" x2="38.1" y2="72.39" width="0.1524" layer="91"/>
-<pinref part="LED_RED" gate="G$1" pin="A"/>
+<pinref part="LED_RED1" gate="G$1" pin="A"/>
 <wire x1="38.1" y1="72.39" x2="40.64" y2="72.39" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="GND" class="0">
 <segment>
-<pinref part="LED_RED" gate="G$1" pin="C"/>
+<pinref part="LED_RED1" gate="G$1" pin="C"/>
 <wire x1="48.26" y1="72.39" x2="50.8" y2="72.39" width="0.1524" layer="91"/>
 <pinref part="GND3" gate="1" pin="GND"/>
 <wire x1="50.8" y1="72.39" x2="53.34" y2="69.85" width="0.1524" layer="91"/>
 <wire x1="53.34" y1="69.85" x2="53.34" y2="58.42" width="0.1524" layer="91"/>
-<pinref part="LED_YELLOW" gate="G$1" pin="C"/>
+<pinref part="LED_RED2" gate="G$1" pin="C"/>
 <wire x1="53.34" y1="58.42" x2="53.34" y2="45.72" width="0.1524" layer="91"/>
 <wire x1="53.34" y1="45.72" x2="53.34" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="48.26" y1="60.96" x2="50.8" y2="60.96" width="0.1524" layer="91"/>
 <wire x1="50.8" y1="60.96" x2="53.34" y2="58.42" width="0.1524" layer="91"/>
 <junction x="53.34" y="58.42"/>
-<pinref part="LED_GREEN" gate="G$1" pin="C"/>
+<pinref part="LED_RED3" gate="G$1" pin="C"/>
 <wire x1="48.26" y1="48.26" x2="50.8" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="50.8" y1="48.26" x2="53.34" y2="45.72" width="0.1524" layer="91"/>
 <junction x="53.34" y="45.72"/>
@@ -2266,17 +2266,17 @@ Warning: This is the KIT version of the AXIAL-0.1 package. This package has a sm
 </net>
 <net name="N$9" class="0">
 <segment>
-<pinref part="R2" gate="G$1" pin="2"/>
+<pinref part="R5" gate="G$1" pin="2"/>
 <wire x1="35.56" y1="60.96" x2="38.1" y2="60.96" width="0.1524" layer="91"/>
-<pinref part="LED_YELLOW" gate="G$1" pin="A"/>
+<pinref part="LED_RED2" gate="G$1" pin="A"/>
 <wire x1="38.1" y1="60.96" x2="40.64" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$10" class="0">
 <segment>
-<pinref part="R3" gate="G$1" pin="2"/>
+<pinref part="R7" gate="G$1" pin="2"/>
 <wire x1="35.56" y1="48.26" x2="38.1" y2="48.26" width="0.1524" layer="91"/>
-<pinref part="LED_GREEN" gate="G$1" pin="A"/>
+<pinref part="LED_RED3" gate="G$1" pin="A"/>
 <wire x1="38.1" y1="48.26" x2="40.64" y2="48.26" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -2302,7 +2302,7 @@ Warning: This is the KIT version of the AXIAL-0.1 package. This package has a sm
 <net name="N$1" class="0">
 <segment>
 <pinref part="SW1" gate="A" pin="2"/>
-<pinref part="R2" gate="G$1" pin="1"/>
+<pinref part="R5" gate="G$1" pin="1"/>
 <wire x1="17.78" y1="60.96" x2="25.4" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -2310,7 +2310,7 @@ Warning: This is the KIT version of the AXIAL-0.1 package. This package has a sm
 <segment>
 <pinref part="SW1" gate="A" pin="3"/>
 <wire x1="17.78" y1="63.5" x2="22.86" y2="63.5" width="0.1524" layer="91"/>
-<pinref part="R1" gate="G$1" pin="1"/>
+<pinref part="R6" gate="G$1" pin="1"/>
 <wire x1="22.86" y1="63.5" x2="22.86" y2="69.85" width="0.1524" layer="91"/>
 <wire x1="22.86" y1="69.85" x2="25.4" y2="72.39" width="0.1524" layer="91"/>
 </segment>
@@ -2320,7 +2320,7 @@ Warning: This is the KIT version of the AXIAL-0.1 package. This package has a sm
 <pinref part="SW1" gate="A" pin="1"/>
 <wire x1="17.78" y1="58.42" x2="22.86" y2="58.42" width="0.1524" layer="91"/>
 <wire x1="22.86" y1="58.42" x2="22.86" y2="50.8" width="0.1524" layer="91"/>
-<pinref part="R3" gate="G$1" pin="1"/>
+<pinref part="R7" gate="G$1" pin="1"/>
 <wire x1="22.86" y1="50.8" x2="25.4" y2="48.26" width="0.1524" layer="91"/>
 </segment>
 </net>
