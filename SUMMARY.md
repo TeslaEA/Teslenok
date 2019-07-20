@@ -3,6 +3,7 @@
 * [Описание](README.md)
 * [Пассивные компоненты](passive_comp/README.md)
   * [Фонарь](passive_comp/lampa.md)
+  * [Фонарь с регулировкой яркости](passive_comp/fonar-s-regulirovkoi-yarkosti.md)
   * [Светофор](passive_comp/svetofor.md)
   * [Умный фонарь](passive_comp/dimmer.md)
   * [Конденсатор](passive_comp/kondensator.md)
