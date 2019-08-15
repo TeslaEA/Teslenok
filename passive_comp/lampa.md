@@ -147,5 +147,26 @@ description: Занятие №1
 1. Собрать два, а после три светодиода, сделать светофор
 2. Собрать схему без проводов
 
+### nbmfnbfgmd
+
+dsflgknnfdgn
+
+{% hint style="info" %}
+fs,gnf.,gnm,df
+{% endhint %}
+
+> fdgfdgkldfgjdflkg
+>
+> sdjghfkjghkdfj
+
+```cpp
+kfjgfkjghkcxnxvncxlvk
+dsfdsfdsfjnxzcv
+dsfjndsljv
+void main()
+{}
+
+```
+
 ## Решение
 
