@@ -1,10 +1,8 @@
 ---
-description: Занятие №1
+description: Вводное занятие
 ---
 
 # Фонарь
-
-[http://gameforstreet.ru/dopolnitel-naya-shema-dlya-mikronika-amperka-sozdaem-rezistor/](http://gameforstreet.ru/dopolnitel-naya-shema-dlya-mikronika-amperka-sozdaem-rezistor/)
 
 ## О занятии
 
