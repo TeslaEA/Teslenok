@@ -15,7 +15,7 @@
 * [Таймер 555](timer-555/README.md)
   * [Стробоскоп](timer-555/stroboskop-555.md)
   * [Пианино](timer-555/pianino.md)
-  * [Будильник \(+компаратор\)](timer-555/budilnik-555-+-komporator.md)
+  * [Будильник](timer-555/budilnik-555-+-komporator.md)
 * [Логика](logic/README.md)
   * [И/ИЛИ/НЕ](logic/i-ili-ne.md)
   * [Правильный светильник \(RS триггер\)](logic/pravilnyi-svetilnik-rs-trigger.md)
