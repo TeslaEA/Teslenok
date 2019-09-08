@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Описание](README.md)
+* [Тесленок](README.md)
 * [Пассивные компоненты](passive_comp/README.md)
   * [Фонарь](passive_comp/lampa.md)
   * [Фонарь с регулировкой яркости](passive_comp/fonar-s-regulirovkoi-yarkosti.md)
