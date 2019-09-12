@@ -29,4 +29,5 @@
   * [Термометр](indicators/termometr.md)
 * [Соревнования](sorevnovaniya.md)
 * [ChangeLog](untitled.md)
+* [BOM part list](bom-part-list.md)
 
