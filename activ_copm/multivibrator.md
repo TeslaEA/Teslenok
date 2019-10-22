@@ -20,3 +20,9 @@ description: Симметричный генератор. Импульсы. Эл
 6. Собрать схему 3 \(подключить мотор ко всему этому безобразию\)
 7. Дать домашнее задание
 
+![&#x420;&#x438;&#x441; 1.](../.gitbook/assets/multivibrator_1.png)
+
+![&#x420;&#x438;&#x441; 2.](../.gitbook/assets/multivibrator_2.png)
+
+![](../.gitbook/assets/multivibrator_3.png)
+
