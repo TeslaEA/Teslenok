@@ -1,13 +1,3 @@
-<<<<<<< HEAD
----
-description: Делаем волшебные пальцы из микроника
----
-
-# Биполярный транзистор
-
-[http://gameforstreet.ru/dopolnitel-naya-shema-dlya-mikronika-amperka-sensor/](http://gameforstreet.ru/dopolnitel-naya-shema-dlya-mikronika-amperka-sensor/)
-
-=======
 ---
 description: NPN-транзистор. Усилиитель. Корпуса.
 ---
@@ -32,4 +22,3 @@ description: NPN-транзистор. Усилиитель. Корпуса.
 
 [http://gameforstreet.ru/dopolnitel-naya-shema-dlya-mikronika-amperka-sensor/](http://gameforstreet.ru/dopolnitel-naya-shema-dlya-mikronika-amperka-sensor/)
 
->>>>>>> f7446b91c112eb8323d611109bb8d3803f14afa5

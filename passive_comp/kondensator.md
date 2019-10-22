@@ -1,17 +1,3 @@
-<<<<<<< HEAD
----
-description: из микроника
----
-
-# Конденсатор
-
-![](../.gitbook/assets/capacitor.png)
-
-![](../.gitbook/assets/capacitor2.png)
-
-![](../.gitbook/assets/capacitor3.png)
-
-=======
 ---
 description: Ёмкость. Конденсатор.
 ---
@@ -47,4 +33,3 @@ description: Ёмкость. Конденсатор.
 
 ![](../.gitbook/assets/capacitor3.png)
 
->>>>>>> f7446b91c112eb8323d611109bb8d3803f14afa5
