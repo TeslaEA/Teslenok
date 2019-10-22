@@ -570,8 +570,8 @@ design rules under a new name.</description>
 <element name="R4" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" package="AXIAL-0.3" package3d_urn="urn:adsk.eagle:package:39658/1" value="220" x="24.13" y="27.94" rot="R90">
 <attribute name="PROD_ID" value="RES-12181" x="24.13" y="27.94" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="Q1" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="TO92-EBC-OVAL" package3d_urn="urn:adsk.eagle:package:6240647/1" value="2N2222" x="2.54" y="5.08" rot="R90"/>
-<element name="Q2" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="TO92-EBC-OVAL" package3d_urn="urn:adsk.eagle:package:6240647/1" value="2N2222" x="22.86" y="5.08" rot="R90"/>
+<element name="T1" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="TO92-EBC-OVAL" package3d_urn="urn:adsk.eagle:package:6240647/1" value="2N2222" x="2.54" y="5.08" rot="R90"/>
+<element name="T2" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="TO92-EBC-OVAL" package3d_urn="urn:adsk.eagle:package:6240647/1" value="2N2222" x="22.86" y="5.08" rot="R90"/>
 <element name="J1" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="1X02_2.54_SCREWTERM" package3d_urn="urn:adsk.eagle:package:38059/1" value="" x="-5.08" y="17.78" rot="R270"/>
 </elements>
 <signals>
@@ -599,8 +599,8 @@ design rules under a new name.</description>
 <wire x1="-5.08" y1="17.78" x2="-2.22" y2="17.78" width="0.6096" layer="1"/>
 </signal>
 <signal name="GND">
-<contactref element="Q1" pad="E"/>
-<contactref element="Q2" pad="E"/>
+<contactref element="T1" pad="E"/>
+<contactref element="T2" pad="E"/>
 <wire x1="3.81" y1="2.54" x2="24.13" y2="2.54" width="0.508" layer="1"/>
 <wire x1="-1" y1="14" x2="-1" y2="5" width="0.6096" layer="1"/>
 <wire x1="-1" y1="5" x2="1" y2="3" width="0.6096" layer="1"/>
@@ -626,7 +626,7 @@ design rules under a new name.</description>
 </signal>
 <signal name="N$2">
 <contactref element="LED1" pad="K"/>
-<contactref element="Q1" pad="C"/>
+<contactref element="T1" pad="C"/>
 <contactref element="C1" pad="1"/>
 <wire x1="3.81" y1="13.97" x2="3.81" y2="10.16" width="0.508" layer="1"/>
 <wire x1="3.81" y1="10.16" x2="3.81" y2="7.62" width="0.508" layer="1"/>
@@ -634,7 +634,7 @@ design rules under a new name.</description>
 </signal>
 <signal name="N$3">
 <contactref element="LED2" pad="K"/>
-<contactref element="Q2" pad="C"/>
+<contactref element="T2" pad="C"/>
 <contactref element="C2" pad="1"/>
 <wire x1="24.13" y1="13.97" x2="24.13" y2="10.16" width="0.508" layer="1"/>
 <wire x1="24.13" y1="10.16" x2="24.13" y2="7.62" width="0.508" layer="1"/>
@@ -648,7 +648,7 @@ design rules under a new name.</description>
 <signal name="N$5">
 <contactref element="R2" pad="P$1"/>
 <contactref element="C1" pad="2"/>
-<contactref element="Q2" pad="B"/>
+<contactref element="T2" pad="B"/>
 <wire x1="8.89" y1="24.13" x2="8.89" y2="20.32" width="0.508" layer="1"/>
 <wire x1="8.89" y1="20.32" x2="11.43" y2="17.78" width="0.508" layer="1"/>
 <wire x1="11.43" y1="17.78" x2="11.43" y2="10.18" width="0.508" layer="1"/>
@@ -660,7 +660,7 @@ design rules under a new name.</description>
 <signal name="N$6">
 <contactref element="R3" pad="P$1"/>
 <contactref element="C2" pad="2"/>
-<contactref element="Q1" pad="B"/>
+<contactref element="T1" pad="B"/>
 <wire x1="19.05" y1="24.13" x2="19.05" y2="20.32" width="0.508" layer="1"/>
 <wire x1="19.05" y1="20.32" x2="16.51" y2="17.78" width="0.508" layer="1"/>
 <wire x1="16.51" y1="17.78" x2="16.51" y2="10.16" width="0.508" layer="1"/>
