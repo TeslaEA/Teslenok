@@ -24,5 +24,5 @@ description: Симметричный генератор. Импульсы. Эл
 
 ![&#x420;&#x438;&#x441; 2.](../.gitbook/assets/multivibrator_2.png)
 
-![](../.gitbook/assets/multivibrator_3.png)
+![&#x420;&#x438;&#x441;. 3](../.gitbook/assets/multivibrator_3.png)
 
