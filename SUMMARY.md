@@ -20,6 +20,8 @@
   * [И/ИЛИ/НЕ](logic/i-ili-ne.md)
   * [Правильный светильник \(RS триггер\)](logic/pravilnyi-svetilnik-rs-trigger.md)
   * [Сигнализация \(4И-НЕ\)/Сирена](logic/signalizaciya-4i-ne-sirena.md)
+  * [Счетчик нажатий простой](logic/schetchik-nazhatii-prostoi.md)
+  * [Счетчик нажатий с дешифратором](logic/schetchik-nazhatii-s-deshifratorom.md)
 * [Магнетизм](actuators/README.md)
   * [Геркон](actuators/gerkon.md)
   * [Детектор магнитного поля](actuators/detektor-magnitnogo-polya.md)
@@ -30,4 +32,6 @@
 * [Соревнования](sorevnovaniya.md)
 * [ChangeLog](untitled.md)
 * [BOM part list](bom-part-list.md)
+* [Еще подумать идеи](eshe-podumat-idei.md)
+* [Схемы для развлечения](skhemy-dlya-razvlecheniya.md)
 
