@@ -22,3 +22,5 @@ description: NPN-транзистор. Усилиитель. Корпуса.
 
 [http://gameforstreet.ru/dopolnitel-naya-shema-dlya-mikronika-amperka-sensor/](http://gameforstreet.ru/dopolnitel-naya-shema-dlya-mikronika-amperka-sensor/)
 
+![](../.gitbook/assets/bipolar.png)
+
