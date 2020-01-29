@@ -25,3 +25,5 @@ description: Мотор. Начало пайки. DIY
 
 Доп задание: мотор управляется крутилкой
 
+![](../.gitbook/assets/polevoy.png)
+
