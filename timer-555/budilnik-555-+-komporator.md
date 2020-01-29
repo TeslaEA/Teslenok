@@ -22,3 +22,5 @@ description: 'Таймер 555, компаратор, пьезодинамик'
 
 [http://nauchebe.net/img/ftm\_image110.jpg](http://nauchebe.net/img/ftm_image110.jpg)
 
+![](../.gitbook/assets/bydil.png)
+
