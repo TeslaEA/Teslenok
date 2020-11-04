@@ -18,6 +18,7 @@
   * [Будильник](timer-555/budilnik-555-+-komporator.md)
 * [Логика](logic/README.md)
   * [И/ИЛИ/НЕ](logic/i-ili-ne.md)
+  * [Кодовый замок с обратной связью](logic/kodovyi-zamok-s-obratnoi-svyazyu.md)
   * [убрать Правильный светильник \(RS триггер\)](logic/pravilnyi-svetilnik-rs-trigger.md)
   * [Сигнализация \(4И-НЕ\)/Сирена](logic/signalizaciya-4i-ne-sirena.md)
   * [Счетчик нажатий простой](logic/schetchik-nazhatii-prostoi.md)
